@@ -13,19 +13,19 @@ title                    : "NanoSusBio"
 title_separator          : "-"
 name                     : &name "NanoSusBio"
 description              : &description "Nanomaterials for Sustainability & Biomedicine"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://nanosusbio.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "NanoSusBio/nanosusbio.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/NanoSusBio/nanosusbio.github.io/blob/cc281960ccaf370bc8af3aa54bad8379c2aa857e/images/Avatar.png"
+  avatar           : "/images/Avatar.png"
   name             : "NanoSusBio"
-  logo             : "https://github.com/NanoSusBio/nanosusbio.github.io/blob/cc281960ccaf370bc8af3aa54bad8379c2aa857e/images/logo.png"
+  logo             : "/images/logo.png"
   pronouns         : "he/him" 
   bio              : "Nanomaterials for Sustainability & Biomedicine"
   location         : "Diadema - SP, Brasil"
