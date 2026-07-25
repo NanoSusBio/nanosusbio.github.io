@@ -21,7 +21,6 @@ Our work focuses on the surface and structure engineering of nanostructured mate
 * Immobilization and stabilization of biomolecules (enzymes and drugs).
 * Nano-regulated systems for controlled release and therapeutic applications.
   
-======
 ## Leadership
 * **Dr. Danilo Waismann Losito** - Post-Doc
 * **Institution:** Federal University of São Paulo (UNIFESP) / Universidade Federal de São Paulo (UNIFESP) - Campus Diadema
