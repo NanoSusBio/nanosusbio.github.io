@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wellcome to the NanoSusBio website"
+title: "Welcome to the NanoSusBio website"
 author_profile: true
 redirect_from: 
   - /about/
