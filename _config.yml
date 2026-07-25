@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   logo             : "images/logo.png"
-  avatar           : "images/logo.png"
+  avatar           : "images/Avatar.png"
   name             : "NanoSusBio"
   pronouns         : "he/him" 
   bio              : "Nanomaterials for Sustainability & Biomedicine"
