@@ -23,6 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+  logo             : "images/logo.png"
   avatar           : "images/logo.png"
   name             : "NanoSusBio"
   pronouns         : "he/him" 
