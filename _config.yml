@@ -23,9 +23,9 @@ repository               : "NanoSusBio/nanosusbio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Avatar.png"
+  avatar           : "Avatar.png"
   name             : "NanoSusBio"
-  logo             : "/images/logo.png"
+  logo             : "logo.png"
   pronouns         : "he/him" 
   bio              : "Nanomaterials for Sustainability & Biomedicine"
   location         : "Diadema - SP, Brasil"
