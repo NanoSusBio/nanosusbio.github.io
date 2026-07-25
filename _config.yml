@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "LogoNanoSusBio.png"
+  avatar           : "/images/LogoNanoSusBio.png"
   name             : "NanoSusBio"
   pronouns         : "he/him" 
   bio              : "Nanomaterials for Sustainability & Biomedicine"
@@ -56,9 +56,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "@danilosito"
+  instagram        : "danilosito"
   lastfm           : # Username
-  linkedin         : "Danilo Waismann Losito"
+  linkedin         : "danilowaismann"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
