@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Avatar.png"
+  avatar           : "https://github.com/NanoSusBio/nanosusbio.github.io/blob/cc281960ccaf370bc8af3aa54bad8379c2aa857e/images/Avatar.png"
   name             : "NanoSusBio"
-  logo             : "images/logo.png"
+  logo             : "https://github.com/NanoSusBio/nanosusbio.github.io/blob/cc281960ccaf370bc8af3aa54bad8379c2aa857e/images/logo.png"
   pronouns         : "he/him" 
   bio              : "Nanomaterials for Sustainability & Biomedicine"
   location         : "Diadema - SP, Brasil"
