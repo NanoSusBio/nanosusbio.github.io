@@ -6,19 +6,11 @@
 
 <div itemscope itemtype="http://schema.org/Person">
   
-<div style="text-align:center; margin-bottom:15px;">
+<div class="author__avatar" style="text-align:center; margin-bottom:20px;">
     <img src="{{ '/images/logo.png' | relative_url }}"
-         alt="NanoSusBio Logo"
-         style="max-width:180px; height:auto;">
-  </div>
-  
-  <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}"  fetchpriority="high" />
-    {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}"  fetchpriority="high" />
-    {% endif %}
-  </div>
+         alt="NanoSusBio"
+         style="width:220px; max-width:100%; height:auto;">
+</div>
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
