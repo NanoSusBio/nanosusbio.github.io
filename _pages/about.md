@@ -57,16 +57,10 @@ Our research combines **materials science**, **chemistry**, and **nanotechnology
 <div class="feature__item">
 <div class="archive__item">
 <h2 class="archive__item-title">💊 Drug Delivery</h2>
-<p>Magnetic nanoparticles and hybrid nanoplatforms for controlled drug release and biomedical applications.</p>
+<p> Nanoplatforms for controlled drug release and biomedical applications.</p>
 </div>
 </div>
 
-<div class="feature__item">
-<div class="archive__item">
-<h2 class="archive__item-title">🌿 Green Nanotechnology</h2>
-<p>Eco-friendly synthesis routes using natural extracts and sustainable chemistry approaches.</p>
-</div>
-</div>
 
 <div class="feature__item">
 <div class="archive__item">
@@ -81,33 +75,13 @@ Our research combines **materials science**, **chemistry**, and **nanotechnology
 
 # Why NanoSusBio?
 
-*  **Sustainable Materials**
-*  **CO₂ Capture & Conversion**
-*  **Drug Delivery**
-*  **Green Chemistry**
-*  **Advanced Characterization**
-*  **International Collaborations**
+*  Sustainable Materials
+*  CO₂ Capture & Conversion
+*  Drug Delivery
+*  Green Chemistry
+*  Advanced Characterization
+*  International Collaborations
 
 ---
 
-# Latest News
 
-* 🎓 **Open positions** for Undergraduate, MSc and PhD students.
-* 🧪 **Development** of magnetic nanoplatforms for drug delivery.
-* 🌍 **New projects** on CO₂ capture and catalytic conversion.
-
----
-
-# Collaborators
-
-**Federal University of São Paulo (UNIFESP)**
-* Prof. Tereza da Silva Martins
-* Prof. Luciano Caseli
-* Prof. Paula Haddad
-
-**University of Guelph (Canada)**
-* Prof. Rafael M. Santos
-* Prof. Animesh Dutta
-
-**Federal University of ABC (UFABC)**
-* Prof. Fabio Furlan
