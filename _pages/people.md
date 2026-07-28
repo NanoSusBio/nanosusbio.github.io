@@ -22,7 +22,8 @@ author_profile: false
     </p>
     <a href="mailto:d.losito@unifesp.br" class="btn btn--primary" style="margin-right: 10px;">d.losito@unifesp.br</a>
   </div>
-
+  
+</div>
 
 ---
 
