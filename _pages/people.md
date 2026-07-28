@@ -40,6 +40,8 @@ author_profile: false
     </p>
 </div>
 
+---
+
 <!-- Imagem do Pietro (Circular) -->
   <img src="/images/FotoPietro.png" alt="Pietro Pavia" width="220" style="border-radius: 50%; object-fit: cover; border: 3px solid #12355B;">
   <!-- Informações -->
@@ -49,6 +51,8 @@ author_profile: false
       Project: SBA-15 as drug delivery nanoplatform for rosuvastatin and ezetimibe
     </p>
 </div>
+
+---
 
 <!-- Imagem do Sophia (Circular) -->
   <img src="/images/FotoSophia.png" alt="Sophia Yumi" width="220" style="border-radius: 50%; object-fit: cover; border: 3px solid #12355B;">
