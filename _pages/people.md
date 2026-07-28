@@ -32,6 +32,7 @@ author_profile: false
 
   <!-- Imagem da Isabela (Circular) -->
   <img src="/images/Isabela.png" alt="Isabela Ferraz" width="220" style="border-radius: 50%; object-fit: cover; border: 3px solid #12355B;">
+  <h2 style="margin-top:0;"> Isabela Ferraz</h2>
   <p style="margin: 0 0 1rem 0; font-size: 0.95rem; line-height: 1.5;">
       Project: Superparamagnetic Iron Oxide nanoparticle synthesized via green route using tea extract to be applied as drug delivery nanoplatform
     </p>
