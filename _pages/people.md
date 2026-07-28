@@ -32,6 +32,7 @@ author_profile: false
 
   <!-- Imagem da Isabela (Circular) -->
   <img src="/images/FotoIsabela.png" alt="Isabela Ferraz" width="220" style="border-radius: 50%; object-fit: cover; border: 3px solid #12355B;">
+  
   <!-- Informações -->
   <div>
   <h3 style="margin-top:0;"> Isabela Ferraz</h3>
@@ -40,10 +41,10 @@ author_profile: false
     </p>
 </div>
 
----
-
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 3rem; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed;">
 <!-- Imagem do Pietro (Circular) -->
   <img src="/images/FotoPietro.png" alt="Pietro Pavia" width="220" style="border-radius: 50%; object-fit: cover; border: 3px solid #12355B;">
+  
   <!-- Informações -->
   <div>
   <h3 style="margin-top:0;"> Pietro Pavia </h3>
@@ -52,10 +53,10 @@ author_profile: false
     </p>
 </div>
 
----
-
+<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 3rem; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed;">
 <!-- Imagem do Sophia (Circular) -->
   <img src="/images/FotoSophia.png" alt="Sophia Yumi" width="220" style="border-radius: 50%; object-fit: cover; border: 3px solid #12355B;">
+  
   <!-- Informações -->
   <div>
   <h3 style="margin-top:0;"> Sophia Yumi </h3>
