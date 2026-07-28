@@ -1,20 +1,20 @@
+Markdown
 ---
 layout: splash
 permalink: /
-title: ""
+title: "NanoSusBio"
 author_profile: false
 
 header:
   overlay_image: /images/banner.jpg
   overlay_filter: 0.45
   overlay_color: "#12355B"
-  excerpt: >
-    <h1 style="font-size:3.3rem; margin-bottom:0;">NanoSusBio</h1>
-    <p style="font-size:1.5rem; margin-top:0.5rem;">Nanomaterials for Sustainability & Biomedicine</p>
-    <p style="font-size:1.15rem;">Engineering functional nanomaterials for environmental technologies, CO₂ capture, catalysis and drug delivery.</p>
-    <br>
-    <a href="/research/" class="btn btn--primary btn--large">Research</a>
-    <a href="/publications/" class="btn btn--inverse btn--large">Publications</a>
+  excerpt: "<b>Nanomaterials for Sustainability & Biomedicine</b><br>Engineering functional nanomaterials for environmental technologies, CO₂ capture, catalysis and drug delivery."
+  actions:
+    - label: "Research"
+      url: "/research/"
+    - label: "Publications"
+      url: "/publications/"
 
 redirect_from:
   - /about/
@@ -67,12 +67,12 @@ Our research combines **materials science**, **chemistry**, and **nanotechnology
 
 # Why NanoSusBio?
 
-* ✔ **Sustainable Materials**
-* ✔ **CO₂ Capture & Conversion**
-* ✔ **Drug Delivery**
-* ✔ **Green Chemistry**
-* ✔ **Advanced Characterization**
-* ✔ **International Collaborations**
+*  **Sustainable Materials**
+*  **CO₂ Capture & Conversion**
+*  **Drug Delivery**
+*  **Green Chemistry**
+*  **Advanced Characterization**
+*  **International Collaborations**
 
 ---
 
