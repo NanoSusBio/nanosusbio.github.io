@@ -31,8 +31,8 @@ author_profile: false
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 3rem; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed;">
 
   <!-- Imagem da Isabela (Circular) -->
+   <h3 style="margin-top:0;"> Isabela Ferraz</h3>
   <img src="/images/Isabela.png" alt="Isabela Ferraz" width="220" style="border-radius: 50%; object-fit: cover; border: 3px solid #12355B;">
-  <h2 style="margin-top:0;"> Isabela Ferraz</h2>
   <p style="margin: 0 0 1rem 0; font-size: 0.95rem; line-height: 1.5;">
       Project: Superparamagnetic Iron Oxide nanoparticle synthesized via green route using tea extract to be applied as drug delivery nanoplatform
     </p>
