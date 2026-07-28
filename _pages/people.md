@@ -38,7 +38,8 @@ author_profile: false
   <p style="margin: 0 0 1rem 0; font-size: 0.95rem; line-height: 1.5;">
       Project: Superparamagnetic Iron Oxide nanoparticle synthesized via green route using tea extract to be applied as drug delivery nanoplatform
     </p>
-  
+</div>
+
 </div>
 ---
 
