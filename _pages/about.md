@@ -140,9 +140,14 @@ Engineering oxygen vacancies, catalytic interfaces and advanced oxide nanostruct
 **Federal University of São Paulo (UNIFESP)**
 
 Prof. Rafael M. Santos - University of Guelph Canada
+
 Prof. Animesh Dutta - University of Guelph Canada
+
 Prof. Tereza da Silva Martins - Universidade Federal de São Paulo
+
 Prof. Luciano Caseli - Universidade Federal de São Paulo
+
 Prof. Paula Haddad - Universidade Federal de São Paulo
+
 Prof. Fabio Furlan - Universidade Federal do ABC
 
