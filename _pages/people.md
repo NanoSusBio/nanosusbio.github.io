@@ -27,52 +27,47 @@ author_profile: false
 
 ---
 
-<h2 style="margin-top:0.3em; color: #57606a;">Students & Researchers</h2>
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 3rem; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed;">
+<!-- STUDENTS & RESEARCHERS -->
+<h2 style="color: #12355B; margin-bottom: 1.5rem;">Students & Researchers</h2>
 
-  <!-- Card Isabela -->
-  <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 3rem; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed; margin-bottom: 1.5rem; flex-wrap: wrap;">
-  <img src="/images/FotoIsabela.png" alt="Isabela Ferraz" width="220" style="border-radius: 50%; object-fit: cover; border: 3px solid #12355B;">
-  
-  <!-- Informações -->
-  <div>
-  <h3 style="margin-top:0;"> Isabela Ferraz</h3>
-  <p style="margin: 0 0 1rem 0; font-size: 0.95rem; line-height: 1.5;">
-      Project: Superparamagnetic Iron Oxide nanoparticle synthesized via green route using tea extract to be applied as drug delivery nanoplatform
+<!-- Card: Isabela -->
+<div style="display: flex; align-items: center; gap: 25px; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed; margin-bottom: 1.5rem; flex-wrap: wrap;">
+  <img src="/images/FotoIsabela.png" alt="Isabela Ferraz" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #12355B; flex-shrink: 0;">
+  <div style="flex: 1; min-width: 250px;">
+    <h3 style="margin: 0 0 0.5rem 0; color: #12355B; font-size: 1.2rem;">Isabela Ferraz</h3>
+    <p style="margin: 0; font-size: 0.95rem; line-height: 1.5;">
+      <strong>Project:</strong> Superparamagnetic Iron Oxide nanoparticle synthesized via green route using tea extract to be applied as drug delivery nanoplatform.
     </p>
   </div>
 </div>
 
-<!-- Card Pietro -->
-  <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 3rem; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed; margin-bottom: 1.5rem; flex-wrap: wrap;">
-  <img src="/images/FotoPietro.png" alt="Pietro Pavia" width="220" style="border-radius: 50%; object-fit: cover; border: 3px solid #12355B;">
-  
-  <!-- Informações -->
-  <div>
-  <h3 style="margin-top:0;"> Pietro Pavia </h3>
-  <p style="margin: 0 0 1rem 0; font-size: 0.95rem; line-height: 1.5;">
-      Project: SBA-15 as drug delivery nanoplatform for rosuvastatin and ezetimibe
+<!-- Card: Pietro -->
+<div style="display: flex; align-items: center; gap: 25px; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed; margin-bottom: 1.5rem; flex-wrap: wrap;">
+  <img src="/images/FotoPietro.png" alt="Pietro Pavia" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #12355B; flex-shrink: 0;">
+  <div style="flex: 1; min-width: 250px;">
+    <h3 style="margin: 0 0 0.5rem 0; color: #12355B; font-size: 1.2rem;">Pietro Pavia</h3>
+    <p style="margin: 0; font-size: 0.95rem; line-height: 1.5;">
+      <strong>Project:</strong> SBA-15 as drug delivery nanoplatform for rosuvastatin and ezetimibe.
     </p>
   </div>
 </div>
 
-<!-- Imagem do Sophia (Circular) -->
-  <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 3rem; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed; margin-bottom: 1.5rem; flex-wrap: wrap;">
-  <img src="/images/FotoSophia.png" alt="Sophia Yumi" width="220" style="border-radius: 50%; object-fit: cover; border: 3px solid #12355B;">
-  
-  <!-- Informações -->
-  <div>
-  <h3 style="margin-top:0;"> Sophia Yumi </h3>
-  <p style="margin: 0 0 1rem 0; font-size: 0.95rem; line-height: 1.5;">
-      Project: Development of SBA-15:MgO nanocomposites for CO2 adsorption
+<!-- Card: Sophia -->
+<div style="display: flex; align-items: center; gap: 25px; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed; margin-bottom: 2rem; flex-wrap: wrap;">
+  <img src="/images/FotoSophia.png" alt="Sophia Yumi" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #12355B; flex-shrink: 0;">
+  <div style="flex: 1; min-width: 250px;">
+    <h3 style="margin: 0 0 0.5rem 0; color: #12355B; font-size: 1.2rem;">Sophia Yumi</h3>
+    <p style="margin: 0; font-size: 0.95rem; line-height: 1.5;">
+      <strong>Project:</strong> Development of SBA-15:MgO nanocomposites for CO₂ adsorption.
     </p>
   </div>
 </div>
----
+
+<hr style="margin: 2rem 0;">
 
 <!-- JOIN THE LAB BOX -->
-<div style="padding: 1.5rem; border: 1px solid #ffcc00; border-radius: 8px; background-color: #fffbef; text-align: center;">
-  <strong>💡 Join the Lab!</strong><br>
+<div style="padding: 1.5rem; border: 1px solid #ffcc00; border-radius: 8px; background-color: #fffbef; text-align: center; margin-top: 2rem;">
+  <strong style="font-size: 1.1rem;">💡 Join the Lab!</strong><br>
   Positions are open for motivated Undergraduate, MSc, and PhD students. <a href="/join/">How to Apply</a>
 </div>
 
