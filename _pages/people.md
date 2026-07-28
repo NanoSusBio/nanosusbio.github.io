@@ -34,7 +34,7 @@ author_profile: false
 <div style="display: flex; align-items: center; gap: 25px; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed; margin-bottom: 1.5rem; flex-wrap: wrap;">
   <img src="/images/FotoIsabela.png" alt="Isabela Ferraz" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #12355B; flex-shrink: 0;">
   <div style="flex: 1; min-width: 250px;">
-    <h3 style="margin: 0 0 0.5rem 0; color: #12355B; font-size: 1.2rem;">Isabela Ferraz</h3> (2026- nowadays)
+    <h3 style="margin: 0 0 0.5rem 0; color: #12355B; font-size: 1.2rem;">Isabela Ferraz</h3>(2026- nowadays)
     <p style="margin: 0; font-size: 0.95rem; line-height: 1.5;">
       <strong>Project:</strong> Superparamagnetic Iron Oxide nanoparticle synthesized via green route using tea extract to be applied as drug delivery nanoplatform.
     </p>
@@ -45,7 +45,7 @@ author_profile: false
 <div style="display: flex; align-items: center; gap: 25px; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed; margin-bottom: 1.5rem; flex-wrap: wrap;">
   <img src="/images/FotoPietro.png" alt="Pietro Pavia" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #12355B; flex-shrink: 0;">
   <div style="flex: 1; min-width: 250px;">
-    <h3 style="margin: 0 0 0.5rem 0; color: #12355B; font-size: 1.2rem;">Pietro Pavia</h3> (2024- nowadays)
+    <h3 style="margin: 0 0 0.5rem 0; color: #12355B; font-size: 1.2rem;">Pietro Pavia</h3>(2024- nowadays)
     <p style="margin: 0; font-size: 0.95rem; line-height: 1.5;">
       <strong>Project:</strong> SBA-15 as drug delivery nanoplatform for rosuvastatin and ezetimibe.
     </p>
@@ -56,7 +56,7 @@ author_profile: false
 <div style="display: flex; align-items: center; gap: 25px; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed; margin-bottom: 2rem; flex-wrap: wrap;">
   <img src="/images/FotoSophia.png" alt="Sophia Yumi" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #12355B; flex-shrink: 0;">
   <div style="flex: 1; min-width: 250px;">
-    <h3 style="margin: 0 0 0.5rem 0; color: #12355B; font-size: 1.2rem;">Sophia Yumi</h3> (2024-2026)
+    <h3 style="margin: 0 0 0.5rem 0; color: #12355B; font-size: 1.2rem;">Sophia Yumi</h3>(2024-2026)
     <p style="margin: 0; font-size: 0.95rem; line-height: 1.5;">
       <strong>Project:</strong> Development of SBA-15:MgO nanocomposites for CO₂ adsorption.
     </p>
@@ -67,7 +67,7 @@ author_profile: false
 <div style="display: flex; align-items: center; gap: 25px; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed; margin-bottom: 1.5rem; flex-wrap: wrap;">
   <img src="/images/FotoGiovana.png" alt="Giovana Lobo" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #12355B; flex-shrink: 0;">
   <div style="flex: 1; min-width: 250px;">
-    <h3 style="margin: 0 0 0.5rem 0; color: #12355B; font-size: 1.2rem;">Giovana Lobo</h3> (2023-2025)
+    <h3 style="margin: 0 0 0.5rem 0; color: #12355B; font-size: 1.2rem;">Giovana Lobo</h3>(2023-2025)
     <p style="margin: 0; font-size: 0.95rem; line-height: 1.5;">
       <strong>Project:</strong> Functionalization of SBA-15 with APTES, MPTMS, PTES for impregnation of biomedical and environmental application
     </p>
