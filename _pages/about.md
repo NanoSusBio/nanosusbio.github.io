@@ -98,7 +98,7 @@ Our research combines **materials science**, **chemistry**, and **nanotechnology
 
 ---
 
-# Collaborations
+# Collaborators
 
 **Federal University of São Paulo (UNIFESP)**
 * Prof. Tereza da Silva Martins
