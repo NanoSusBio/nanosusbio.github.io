@@ -73,5 +73,19 @@ author_profile: false
 
 </div>
 
+# Collaborations
+
+**Federal University of São Paulo (UNIFESP)**
+* Prof. Tereza da Silva Martins
+* Prof. Luciano Caseli
+* Prof. Paula Haddad
+
+**University of Guelph (Canada)**
+* Prof. Rafael M. Santos
+* Prof. Animesh Dutta
+
+**Federal University of ABC (UFABC)**
+* Prof. Fabio Furlan
+
 
 
