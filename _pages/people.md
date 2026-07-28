@@ -7,7 +7,7 @@ author_profile: false
 
 <div style="max-width: 900px; margin: 0 auto; padding: 0 1rem;">
 
-**Principal Investigator**
+<h2 style="margin-top:0.3; color: #57606a;">Principal Investigator</h2>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 3rem; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed;">
 
@@ -27,7 +27,7 @@ author_profile: false
 
 ---
 
-🎓 <h3 style="margin-top:0.3em; color: #57606a;">Students & Researchers</h3>
+<h3 style="margin-top:0.3em; color: #57606a;">Students & Researchers</h3>
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 3rem; background: #f8f9fa; padding: 1.5rem; border-radius: 8px; border: 1px solid #e1e8ed;">
 
   <!-- Imagem da Isabela (Circular) -->
