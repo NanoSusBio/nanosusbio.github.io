@@ -19,6 +19,11 @@ Focused on the development of nanoplatforms for environmental remediation.
 * Functionalization with biomolecules
 * Anchoring efficiency of different pharmaceutical molecules
 
+### ⚗️ 3. Functional Materials
+* Engineering of oxygen vacancies on metal oxide nanoparticles (e.g. CeO₂, TiO₂, MnOx)
+* Deeply understand on structure-activity relationship characterized with advance techniques (Rietveld, PDF, XPS)
+* Modification of supports through different method of synthesis.
+
 
 ### Nanoplatforms
 * CeO₂-based materials: Defect engineering to improve CO₂ activation for adsorption studies and preliminar catalytic tests;
