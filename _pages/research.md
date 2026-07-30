@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: false
 ---
 
-# Research Lines
-
 ### 🌍 1. Environmental Technologies & CO₂ Capture
 Focused on the development of nanoplatforms for environmental remediation.
 * CO₂ adsorption study
